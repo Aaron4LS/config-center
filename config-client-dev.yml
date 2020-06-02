@@ -1,5 +1,5 @@
 info:
   profile: dev
 server:
-  port: 7002
+  port: 2002
 from: i came from gz
